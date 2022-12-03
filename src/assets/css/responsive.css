@@ -1,0 +1,2548 @@
+@media(max-width: 575px){
+ 
+    table {
+  white-space: nowrap;
+}
+    .list_edit span {
+    margin-bottom: 10px;
+}
+    .image-wrap{
+        margin: 0;
+    }
+    #contact_section:before {
+    width: 30%;
+    height: 16%;
+    top: 0;
+    left: -50px;
+}
+    #about_section:before {
+        display: none;
+    }
+    #questions:before{
+        display: none;
+    }
+    #about-section:before {
+    width: 38%;
+    top: -70px;
+    left: -45px;
+}
+    .about_banner_content {
+    text-align: center;
+}
+    .about_banner_content h5 {
+    font-size: 24px;
+    width: unset;
+    line-height: 33px;
+}
+    #what_we_offer {
+    padding: 80px 10px;
+}
+.we_offers {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: rgb(99 99 99 / 12%) 0px 2px 8px 0px;
+}
+    .about_image_wrapper {
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 0;
+}
+#about_section:after {
+    width: 120px;
+    height: 120px;
+    bottom: 0px;
+    right: 40px;
+}
+    .about_content_wrapper{
+        height: unset;
+    }
+#about_section {
+    padding: 80px 15px 0px;
+}
+    .match_icon {
+    font-size: 12px;
+}
+    .nav-links a:hover {
+    color: #ffffff;
+}
+    .burger div {
+    width: 20px;
+    height: 2px;
+}
+.common_caption_head {
+    font-size: 22px;
+}
+    #Privacy_policy_wrapper {
+    padding: 80px 15px;
+}
+    #simple_header {
+    padding: 0px 15px;
+}
+         .matches{
+    display: block;
+}
+    .partner_preference_head {
+    margin: 20px 0px;
+}
+    .help_centre_head p {
+    font-size: 13px;
+    width: unset;
+    text-align: justify;
+}
+    .plan_title h6{
+        font-size: 12px;
+    }
+    .radio {
+    font-size: 12px;
+    margin-right: 18px;
+}
+    .plan_a_trip .nav-link{
+        width: 50%;
+    }
+    .help_centre_head h3{
+        font-size: 20px;
+    }
+    .dropdown{
+        padding: 0;
+    }
+    .post_time{
+        padding: 0;
+    }
+    .comment_posted_user_name{
+        width: 100%;
+    }
+    .post_owner{
+        font-size: 13px;
+    }
+    .travel_buddy_name_wrap {
+    margin-left: 20px;
+}
+    .travel_buddy_profile{
+        width: 40px;
+        height: 40px;
+    }
+    .travel_place{
+        justify-content: left;
+        font-size: 12px;
+    }
+    .travel_date{
+        justify-content: left;
+        font-size: 12px;
+    }
+    .user_chat {
+    border: 0!important;
+}
+    .user_name_style{
+        font-size: 12px;
+    }
+    .chat p{
+        display: none;
+    }
+    .modal-dialog {
+    margin: 20px;
+}
+    .image_wrap {
+    border: 5px solid #00000014;
+}
+    .pfl_head span {
+    font-size: 12px;
+    color: #ffffff;
+    width: 38px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+}
+    .profile_settings {
+    padding:0;
+    margin-top: 20px;
+}
+    .pfl_head p{
+        font-size: 12px;
+    }
+    .pfl_head {
+    margin-bottom: 5px;
+}
+    .user_data h5 {
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 10px;
+    color: #000000;
+}
+    .user_data span {
+    font-size: 12px;
+    width: 130px;
+    color: #7e7e7e;
+    font-weight: 500;
+    height: 28px;
+    background: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin: auto;
+}
+    .profile_image_wrap {
+    background: none;
+}
+    .select_profile_wrap{
+        background: transparent;
+    }
+    .about-content::before{
+        display: none;
+    }
+    .filter_submit_btn{
+        font-size: 12px;
+    }
+    .filter_wrap .nav-link {
+    font-size: 12px;
+}
+.filter_wrap .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    font-size: 12px;
+}
+.select_wrapper label{
+    font-size: 12px;
+}
+    .filter_wrap{
+        width: 100%;
+    }
+    .filter iconify-icon{
+        font-size: 16px;
+        margin: 0;
+    }
+    .filter {
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+    color: #fff;
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .filter p {
+   display: none;
+}
+.horoscope_matches_images {
+    height: 150px;
+}
+.recommented_images {
+    width: 90px;
+    height: 90px;
+}
+.recommented_section h6 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.horoscope_matches_slide ul li {
+    width: 48%;
+    float: left;
+    margin:1%;
+}
+.horoscope_matches p {
+    font-size: 12px;
+    margin-top: 10px;
+}
+    /*contact_page*/
+    .common_paragraph p{
+        font-size: 13px;
+        text-align: justify;
+        line-height: 24px;
+    }
+        #contact_section {
+             padding: 80px 10px;
+    }
+   
+    .contact_form_wrap {
+        padding: 50px 20px;
+}
+.contact_text {
+    padding-left: 0;
+    height: unset;
+    margin-top: 50px;
+}
+.contact_text_head {
+    font-size: 22px;
+}
+.contact_form_head {
+    font-size: 24px;
+    width: unset;
+    margin-bottom: 20px;
+}
+    .responsive_message_wrap{
+        display: inline-block;
+    }
+    .message_main_wrap input::placeholder{
+    font-size: 12px;
+}
+    .message_main_wrap input{
+        width: 80%;
+        font-size: 12px;
+    }
+    .type_message_wrap {
+    padding: 20px 0;
+}
+    .settings_wrap {
+        width: 30%;
+    }
+    .user_profile_wrap{
+        min-width: 45px;
+        height: 45px;
+    }
+    .dropdown-content{
+        right: 0!important;
+        left: unset;
+    }
+   
+    .message-orange {
+    margin-left: calc(100% - 160px);
+    width: 180px;
+}
+.message-blue {
+    width: 180px;
+    margin-left: -20px;
+}
+    .message-fix {
+    height: 460px;
+    overflow-y: auto;
+}
+    .say_hellow{
+        font-size: 12PX;
+    }
+    .start_message_wrap p {
+    font-size: 12px;
+}
+.start_message_wrap {
+    width: 100%;
+    border: 0;
+    background: #fafafa;
+}
+.user_name_wrap {
+    width: 75%;
+}
+    .message-content {
+    font-size: 12px;
+}
+    .recent_chat_user{
+        padding: 20px 0px;
+    }
+    .recent_chats{
+        width: 100%;
+    }
+    .user_name_wrap span {
+    font-size: 14px;
+}
+    .chats ul .active {
+    background: transparent;
+}
+    .chats ul li {
+    padding: 15px 0px;
+}
+    .chats {
+    width: 100%;
+    border-right: 0;
+    height: 380px;
+    margin-top: 20px;
+}
+    .message_bg {
+    display: none;
+}
+    .responsive_menu{
+    display: flex;
+}
+    .profile_photo {
+    width: 60px;
+    height: 60px;
+}
+    .verifivation_mark {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+}
+    .verify{
+        font-size: 12px;
+    }
+    .verify_head h3 {
+    font-size: 16px;
+}
+    .verify_head p {
+    font-size: 12px;
+}
+    .socila_media span {
+    font-size: 12px;
+    color: #ffffff;
+}
+    .socila_media h6 {
+    font-size: 13px;
+    color: #ffffff;
+}
+    .social_icon_wrap{
+        filter: grayscale(0);
+    }
+    .profile_verification_wrapper {
+    background: none;
+    margin-top: 20px;
+    padding: 0;
+}
+    .social_media_connect {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 85px;
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+}
+    .select_here_to{
+        font-size: 12px;
+    }
+    .searchButton{
+        font-size: 13px;
+    }
+    .cancel_btn{
+        font-size: 12px;
+    }
+    .save_btn{
+        font-size: 12px;
+    }
+    .wrk_edu_input::placeholder{
+    font-size: 12px;
+}
+.select2-container--default .select2-search--inline .select2-search__field {
+    font-size: 12px!important;
+}
+    .wrk_education_wrap label {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+    .about_me_wrap{
+        width: 100%;
+        margin: 0;
+    }
+    .personal_info ul li span {
+    font-size: 12px;
+    min-width: 45%;
+    text-align: left;
+}
+    .personal_info ul li label{
+        text-align: left;
+        font-size: 12px;
+    }
+    .text_wrap_2{
+        margin: 0;
+    }
+    .hide_section {
+    display: none;
+}
+    .float_wrap_3 {
+    display: none;
+}
+    .phn_verification_box {
+    padding: 0px 0px 20px;
+}
+ .responsive_profile_verification{
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.responsive_profile_verification:hover{
+    color: #fff;
+}
+.responsive_profile_verification iconify-icon{
+    font-size: 26px;
+    margin-right: 10px;
+}
+
+    .profile_completion{
+        border-bottom: 0;
+    }
+    .show .img-show{
+        width: 100%;
+    }
+    .settings_wrap_2 {
+    display:flex!important;
+}
+    .common_box{
+        padding: 20px 10px;
+    }
+    .text_wrap h6{
+        font-size: 12px;
+    }
+    .text_wrap p{
+        font-size: 12px;
+    }
+    .text_wrap h5{
+        font-size: 13px;
+    }
+
+    .fixed_menu_bar{
+        display: block;
+    }
+    .personal_info ul li {
+    width: unset;
+    padding: 0;
+    margin: 10px 0;
+}
+    #dashboard_wrapper {
+        padding: 20px 5px 80px;
+}
+    .label-text-2 {
+    font-size: 12px;
+}
+    .head_wrap {
+    padding: 10px 20px;
+    height: 60px;
+}
+    .settings_wrap ul li {
+    margin-left: 5px;
+}
+    span.select2.select2-container.select2-container--default {
+    width: 100%!important;
+}
+.common_head_wrap_3 {
+    width: unset;
+}
+    .interests {
+    width: 100%;
+    float: unset;
+    margin-bottom: 22px;
+    padding: 0;
+}
+    .wrk_education_btn_wrap{
+        margin: 20px 0px;
+    }
+.wrk_edu_input {
+    width: 100%;
+    padding: 5px 16px;
+    font-size: 12px;
+}
+    .wrk_education_wrap {
+    display: block;
+    margin-bottom: 0px;
+}
+    .pdofile_uploader {
+    height: 150px;
+    width: 30%;
+}
+    .profile_image{
+        height: 150px;
+    }
+    .profile-slider .owl-carousel{
+        width: 70%;
+        height: 150px;
+    }
+    #login_page_wrapper {
+    height: unset;
+    align-items: unset;
+}
+    .intertest_list ul li{
+        font-size: 12px;
+    }
+    .interest_wrapper{
+       width: 100%;
+    }
+    .header_wrap h2{
+        font-size: 22px;
+    }
+    .footer_left_wrap  p{
+        font-size: 12px;
+    }
+    .footer_left_wrap  p a{
+        font-size: 12px;
+    }
+    .register-page-footer {
+    height: auto;
+    padding: 8px 0px;
+}
+    .button_outer{
+        width: 100%;
+    }
+.upload_profile{
+    width: 100%;
+}
+    .icon_wrap {
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+    .edit_icon{
+        font-size: 22px;
+    }
+    .common_heading{
+        font-size: 16px;
+    }
+    .common_box_2:after{
+        display: none;
+    }
+    .work_education_single {
+    float: unset;
+    width: 100%;
+    margin-bottom: 20px;
+}
+    .profile-slider{
+        margin-top: 20px;
+    }
+.settings_wrap ul li a {
+    font-size: 16px;
+    width: 28px;
+    height: 28px;
+}
+    .logo_wrap {
+    width: 50%;
+}
+    .name_wrap {
+    display: none;
+}
+    .logo_wrap img {
+    width: 100px;
+}
+    .login_input::placeholder{
+     font-size: 14px;
+}
+.login_input{
+    font-size: 14px;
+}
+    .login_btn{
+        font-size: 12px;
+    }
+    .forgot_password{
+        font-size: 12px;
+    }
+    .stay_logged_in p{
+        font-size: 12px;
+    }
+    .p-3 {
+    padding: 10px 0px!important;
+}
+    .rht_wrapper .nav-tabs .nav-link {
+    font-size: 14px;
+}
+    .lft_wrapper p {
+    font-size: 14px;
+    line-height: 22px;
+    width: unset;
+}
+    .lft_wrapper h2 {
+    font-size: 22px;
+}
+    .login_wrapper {
+    margin-top: 50px;
+}
+    #login_page_wrapper {
+    padding: 50px 5px;
+}
+    .top_logo_wrap img {
+    width: 120px;
+}
+    .lft_wrapper {
+    justify-content: center;
+    text-align: center;
+}
+    .login_form_wrap{
+        width: 100%;
+        padding: 30px 15px;
+    }
+    .login_wrap {
+    padding: 0;
+}
+    .form-wrap{
+        width: 100%;
+    }
+.check-box {
+    width: 100%;
+    justify-content: center;
+    /* margin-right: 4%; */
+}
+    .check-box-2 {
+    margin-left: 0;
+}
+   #nav_bar {
+    padding: 30px 15px;
+}
+    button.back-to-top.show {
+    right: 10px;
+    height: 40px;
+    width: 40px;
+}
+button.back-to-top::before, button.back-to-top::after {
+    margin: 16px auto 0;
+}
+    .header-image{
+        height: auto;
+    }
+    .question-head h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .question-head iconify-icon {
+        font-size: 20px;
+    }
+    .icon-wrap01 img {
+        width: 50px;
+    }
+    .list-wrap {
+    margin-top: 20px;
+}
+    .point-wrap h4 {
+    font-size: 14px;
+    line-height: 18px;
+    width:100%;
+    margin: 0;
+}
+.point-wrap p {
+    font-size: 12px;
+}
+    .login {
+    padding: 5px 20px;
+    font-size: 12px;
+    margin-right: 10px;
+}
+    .logo img {
+        width: 100px;
+    }
+    .header-content {
+        padding: 100px 15px 50px;
+        display: block;
+    }
+    .form-wrap{
+        width: 100%;
+        padding: 40px 20px;
+    }
+    .form-wrap h3 {
+        font-weight: 500;
+        font-size: 20px;
+    }
+    .header-caption-wrap {
+        margin-bottom: 50px;
+    }
+    .main-head {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .sub-heading {
+        font-size: 24px;
+        line-height: 32px;
+        width: 100%;
+    }
+    .list-wrap ul li {
+        width: 100%;
+        padding: 25px 0px;
+    }
+    .topic-wrap h4{
+        font-size: 15px;
+    }
+    .image-wrap {
+        margin-bottom: 30px;
+        height: auto;
+    }
+    .image-section {
+    height: 250px;
+    width: 100%;
+}
+    #we-provide {
+        padding: 50px 15px;
+    }
+    #about-section {
+        padding: 80px 15px;
+    }
+    #whats-inside {
+        padding: 80px 15px;
+    }
+    .about-head h3{
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .about-content {
+        padding-top: 21px;
+        padding-left: 0px;
+    }
+    .about-head h3::after{
+        display: none;
+    }
+    .common-paragraph p{
+        text-align: justify;
+    }
+    #enquiry-section {
+        padding: 0px 15px;
+    }
+    .enquiry-wrapper {
+        padding: 50px 20px;
+    }
+    .questions-wrapper {
+        padding: 0px;
+    }
+    .accordion_body p {
+    font-size: 13px;
+    text-align: justify;
+    line-height: 24px;
+}
+    .border-box{
+        padding: 50px 10px;
+    }
+    .accordion_head h4 {
+    font-size: 13px;
+    line-height: 20px;
+    width: 250px;
+}
+.accordion_head_2 {
+    padding: 5px 10px;
+}
+    #register {
+        padding: 50px 15px;
+    }
+    .register-wrapper {
+        padding:0px;
+    }
+    .register-image {
+        margin-bottom: 40px;
+    }
+
+    footer {
+        padding: 50px 15px;
+    }
+    .footer-wrap {
+        padding: 0;
+        text-align: center;
+    }
+    .social-links ul {
+        justify-content: center;
+    }
+    .social-links {
+        margin-top: 20px;
+    }
+    .email-wrap h3 {
+        text-align: center;
+    }
+    .email-wrap {
+        margin-top: 20px;
+    }
+    .wrap01 {
+        width: 100%;
+    }
+    .wrap02 {
+        width: 100%;
+        text-align: center;
+    }
+    .quick-links-scnd{
+        display: block;
+        margin-top: 20px;
+    }
+    .quick-links-frst{
+        display: none;
+    }
+    .quick-links ul {
+        justify-content: center;
+    }
+    .wrap01 p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .wrap02 a {
+        font-size: 12px;
+    }
+    .copy-right {
+        margin-top: 20px;
+    }
+    .footer-line{
+        height: 1px!important;
+    }
+    .quick-links ul li a{
+        font-size: 14px;
+      }
+      .common-paragraph p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .register-btn {
+        font-size: 14px;
+        padding: 8px 24px;
+    }
+    .common-btn {
+        padding: 10px 34px;
+        font-size: 14px;
+    }
+    }
+    @media (min-width: 576px) and (max-width: 767px){
+        .image-wrap{
+        margin: 0;
+    }
+          .matches{
+    display: block;
+}
+.help_centre_head p {
+    font-size: 13px;
+    width: unset;
+}
+    .plan_title h6{
+        font-size: 12px;
+    }
+    .radio {
+    font-size: 12px;
+    margin-right: 18px;
+}
+    .plan_a_trip .nav-link{
+        width: 50%;
+    }
+    .help_centre_head h3{
+        font-size: 20px;
+    }
+    .dropdown{
+        padding: 0;
+    }
+    .post_time{
+        padding: 0;
+    }
+    .comment_posted_user_name{
+        width: 100%;
+    }
+    .post_owner{
+        font-size: 13px;
+    }
+    .travel_buddy_name_wrap {
+    margin-left: 20px;
+}
+    .travel_buddy_profile{
+        width: 40px;
+        height: 40px;
+    }
+    .travel_place{
+        justify-content: left;
+        font-size: 12px;
+    }
+    .travel_date{
+        justify-content: left;
+        font-size: 12px;
+    }
+    .user_chat {
+    border: 0!important;
+}
+    .user_name_style{
+        font-size: 12px;
+    }
+    .chat p{
+        display: none;
+    }
+    .modal-dialog {
+    margin: 20px;
+}
+    .image_wrap {
+    border: 5px solid #00000014;
+}
+    .pfl_head span {
+    font-size: 12px;
+    color: #ffffff;
+    width: 38px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+}
+    .profile_settings {
+    padding:0;
+    margin-top: 20px;
+}
+    .pfl_head p{
+        font-size: 12px;
+    }
+    .pfl_head {
+    margin-bottom: 5px;
+}
+    .user_data h5 {
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 10px;
+    color: #000000;
+}
+    .user_data span {
+    font-size: 12px;
+    width: 130px;
+    color: #7e7e7e;
+    font-weight: 500;
+    height: 28px;
+    background: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin: auto;
+}
+    .profile_image_wrap {
+    background: none;
+}
+    .select_profile_wrap{
+        background: transparent;
+    }
+    .about-content::before{
+        display: none;
+    }
+    .filter_submit_btn{
+        font-size: 12px;
+    }
+    .filter_wrap .nav-link {
+    font-size: 12px;
+}
+.filter_wrap .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    font-size: 12px;
+}
+.select_wrapper label{
+    font-size: 12px;
+}
+    .filter_wrap{
+        width: 100%;
+    }
+    .filter iconify-icon{
+        font-size: 16px;
+        margin: 0;
+    }
+    .filter {
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+    color: #fff;
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .filter p {
+   display: none;
+}
+.horoscope_matches_images {
+    height: 150px;
+}
+.recommented_images {
+    width: 90px;
+    height: 90px;
+}
+.recommented_section h6 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.horoscope_matches_slide ul li {
+    width: 48%;
+    float: left;
+    margin:1%;
+}
+.horoscope_matches p {
+    font-size: 12px;
+    margin-top: 10px;
+}
+    /*contact_page*/
+    .common_paragraph p{
+        font-size: 13px;
+        text-align: justify;
+        line-height: 24px;
+    }
+        #contact_section {
+             padding: 80px 10px;
+    }
+   
+    .contact_form_wrap {
+        padding: 50px 20px;
+}
+.contact_text {
+    padding-left: 0;
+    height: unset;
+    margin-top: 50px;
+}
+.contact_text_head {
+    font-size: 22px;
+}
+.contact_form_head {
+    font-size: 24px;
+    width: unset;
+    margin-bottom: 20px;
+}
+    .responsive_message_wrap{
+        display: inline-block;
+    }
+    .message_main_wrap input::placeholder{
+    font-size: 12px;
+}
+    .message_main_wrap input{
+        width: 80%;
+        font-size: 12px;
+    }
+    .type_message_wrap {
+    padding: 20px 0;
+}
+    .settings_wrap {
+        width: 30%;
+    }
+    .user_profile_wrap{
+        min-width: 30px;
+        height: 30px;
+    }
+    .dropdown-content{
+        right: 0!important;
+        left: unset;
+    }
+   
+    .message-orange {
+    margin-left: calc(100% - 160px);
+    width: 180px;
+}
+.message-blue {
+    width: 180px;
+    margin-left: -20px;
+}
+    .message-fix {
+    height: 400px;
+    overflow-y: auto;
+}
+    .say_hellow{
+        font-size: 12PX;
+    }
+    .start_message_wrap p {
+    font-size: 12px;
+}
+.start_message_wrap {
+    width: 100%;
+    border: 0;
+    background: #fafafa;
+}
+.user_name_wrap {
+    width: 75%;
+}
+    .message-content {
+    font-size: 12px;
+}
+    .recent_chat_user{
+        padding: 20px 0px;
+    }
+    .recent_chats{
+        width: 100%;
+    }
+    .user_name_wrap span {
+    font-size: 14px;
+}
+    .chats ul .active {
+    background: transparent;
+}
+    .chats ul li {
+    padding: 15px 0px;
+}
+    .chats {
+    width: 100%;
+    border-right: 0;
+    height: 380px;
+    margin-top: 20px;
+}
+    .message_bg {
+    display: none;
+}
+    .responsive_menu{
+    display: flex;
+}
+    .profile_photo {
+    width: 60px;
+    height: 60px;
+}
+    .verifivation_mark {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+}
+    .verify{
+        font-size: 12px;
+    }
+    .verify_head h3 {
+    font-size: 16px;
+}
+    .verify_head p {
+    font-size: 12px;
+}
+    .socila_media span {
+    font-size: 12px;
+    color: #ffffff;
+}
+    .socila_media h6 {
+    font-size: 13px;
+    color: #ffffff;
+}
+    .social_icon_wrap{
+        filter: grayscale(0);
+    }
+    .profile_verification_wrapper {
+    background: none;
+    margin-top: 20px;
+    padding: 0;
+}
+    .social_media_connect {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 85px;
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+}
+    .select_here_to{
+        font-size: 12px;
+    }
+    .searchButton{
+        font-size: 13px;
+    }
+    .cancel_btn{
+        font-size: 12px;
+    }
+    .save_btn{
+        font-size: 12px;
+    }
+    .wrk_edu_input::placeholder{
+    font-size: 12px;
+}
+.select2-container--default .select2-search--inline .select2-search__field {
+    font-size: 12px!important;
+}
+    .wrk_education_wrap label {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+    .about_me_wrap{
+        width: 100%;
+        margin: 0;
+    }
+    .personal_info ul li span {
+    font-size: 12px;
+    min-width: 45%;
+    text-align: left;
+}
+    .personal_info ul li label{
+        text-align: left;
+        font-size: 12px;
+    }
+    .text_wrap_2{
+        margin: 0;
+    }
+    .hide_section {
+    display: none;
+}
+    .float_wrap_3 {
+    display: none;
+}
+    .phn_verification_box {
+    padding: 0px 0px 20px;
+}
+ .responsive_profile_verification{
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.responsive_profile_verification:hover{
+    color: #fff;
+}
+.responsive_profile_verification iconify-icon{
+    font-size: 26px;
+    margin-right: 10px;
+}
+
+    .profile_completion{
+        border-bottom: 0;
+    }
+    .show .img-show{
+        width: 100%;
+    }
+    .settings_wrap_2 {
+    display:flex!important;
+}
+    .common_box{
+        padding: 20px 10px;
+    }
+    .text_wrap h6{
+        font-size: 12px;
+    }
+    .text_wrap p{
+        font-size: 12px;
+    }
+    .text_wrap h5{
+        font-size: 13px;
+    }
+    .topic-wrap {
+    padding: 0px 20px;
+}
+    .fixed_menu_bar{
+        display: block;
+    }
+    .personal_info ul li {
+    width: unset;
+    padding: 0;
+    margin: 10px 0;
+}
+    #dashboard_wrapper {
+        padding: 20px 5px 80px;
+}
+    .label-text-2 {
+    font-size: 12px;
+}
+    .head_wrap {
+    padding: 10px 20px;
+    height: 60px;
+}
+    .settings_wrap ul li {
+    margin-left: 5px;
+}
+    span.select2.select2-container.select2-container--default {
+    width: 100%!important;
+}
+.common_head_wrap_3 {
+    width: unset;
+}
+    .interests {
+    width: 100%;
+    float: unset;
+    margin-bottom: 22px;
+    padding: 0;
+}
+    .wrk_education_btn_wrap{
+        margin: 20px 0px;
+    }
+.wrk_edu_input {
+    width: 100%;
+    padding: 5px 16px;
+    font-size: 12px;
+}
+    .wrk_education_wrap {
+    display: block;
+    margin-bottom: 0px;
+}
+    .pdofile_uploader {
+    height: 150px;
+    width: 30%;
+}
+    .profile_image{
+        height: 150px;
+    }
+    .profile-slider .owl-carousel{
+        width: 70%;
+        height: 150px;
+    }
+    #login_page_wrapper {
+    height: unset;
+    align-items: unset;
+}
+    .intertest_list ul li{
+        font-size: 12px;
+    }
+    .interest_wrapper{
+       width: 100%;
+    }
+    .header_wrap h2{
+        font-size: 22px;
+    }
+    .footer_left_wrap  p{
+        font-size: 12px;
+    }
+    .footer_left_wrap  p a{
+        font-size: 12px;
+    }
+    .register-page-footer {
+    height: auto;
+    padding: 8px 0px;
+}
+    .button_outer{
+        width: 100%;
+    }
+.upload_profile{
+    width: 100%;
+}
+    .icon_wrap {
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+    .edit_icon{
+        font-size: 22px;
+    }
+    .common_heading{
+        font-size: 16px;
+    }
+    .common_box_2:after{
+        display: none;
+    }
+    .work_education_single {
+    float: unset;
+    width: 100%;
+    margin-bottom: 20px;
+}
+    .profile-slider{
+        margin-top: 20px;
+    }
+.settings_wrap ul li a {
+    font-size: 16px;
+    width: 28px;
+    height: 28px;
+}
+    .logo_wrap {
+    width: 50%;
+}
+    .name_wrap {
+    display: none;
+}
+    .logo_wrap img {
+    width: 100px;
+}
+    .login_input::placeholder{
+     font-size: 14px;
+}
+.login_input{
+    font-size: 14px;
+}
+    .login_btn{
+        font-size: 12px;
+    }
+    .forgot_password{
+        font-size: 12px;
+    }
+    .stay_logged_in p{
+        font-size: 12px;
+    }
+    .p-3 {
+    padding: 10px 0px!important;
+}
+    .rht_wrapper .nav-tabs .nav-link {
+    font-size: 14px;
+}
+    .lft_wrapper p {
+    font-size: 14px;
+    line-height: 22px;
+    width: unset;
+}
+    .lft_wrapper h2 {
+    font-size: 22px;
+}
+    .login_wrapper {
+    margin-top: 50px;
+}
+    #login_page_wrapper {
+    padding: 50px 5px;
+}
+    .top_logo_wrap img {
+    width: 120px;
+}
+    .lft_wrapper {
+    justify-content: center;
+    text-align: center;
+}
+    .login_form_wrap{
+        width: 100%;
+        padding: 30px 15px;
+    }
+    .login_wrap {
+    padding: 0;
+}
+    .form-wrap{
+        width: 100%;
+    }
+.check-box {
+    width: 100%;
+    justify-content: center;
+    /* margin-right: 4%; */
+}
+    .check-box-2 {
+    margin-left: 0;
+}
+   #nav_bar {
+    padding: 30px 15px;
+}
+    button.back-to-top.show {
+    right: 10px;
+    height: 40px;
+    width: 40px;
+}
+button.back-to-top::before, button.back-to-top::after {
+    margin: 16px auto 0;
+}
+    .header-image{
+        height: auto;
+    }
+    .question-head h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .question-head iconify-icon {
+        font-size: 20px;
+    }
+    .icon-wrap01 img {
+        width: 50px;
+    }
+    .list-wrap {
+    margin-top: 20px;
+}
+    .point-wrap h4 {
+    font-size: 14px;
+    line-height: 18px;
+    width:100%;
+    margin: 0;
+}
+.point-wrap p {
+    font-size: 12px;
+}
+    .login {
+        padding: 5px 20px;
+        font-size: 12px;
+        margin-right: 20px;
+    }
+    .logo img {
+        width: 100px;
+    }
+    .header-content {
+        padding: 100px 15px 50px;
+        display: block;
+    }
+    .form-wrap{
+        width: 100%;
+        padding: 40px 20px;
+    }
+    .form-wrap h3 {
+        font-weight: 500;
+        font-size: 20px;
+    }
+    .header-caption-wrap {
+        margin-bottom: 50px;
+    }
+    .main-head {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .sub-heading {
+        font-size: 24px;
+        line-height: 32px;
+        width: 100%;
+    }
+    .list-wrap ul li {
+        width: 100%;
+        padding: 25px 0px;
+    }
+    .topic-wrap h4{
+        font-size: 15px;
+    }
+    .image-wrap {
+        margin-bottom: 30px;
+    }
+    #we-provide {
+        padding: 50px 15px;
+    }
+    #about-section {
+        padding: 80px 15px;
+    }
+    #whats-inside {
+        padding: 80px 15px;
+    }
+    .about-head h3{
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .about-content {
+        padding-top: 21px;
+        padding-left: 0px;
+    }
+    .about-head h3::after{
+        display: none;
+    }
+    .common-paragraph p{
+        text-align: justify;
+    }
+    #enquiry-section {
+        padding: 0px 15px;
+    }
+    .enquiry-wrapper {
+        padding: 50px 20px;
+    }
+    .questions-wrapper {
+        padding: 0px;
+    }
+    .accordion_body p {
+    font-size: 13px;
+    text-align: justify;
+    line-height: 24px;
+}
+    .border-box{
+        padding: 50px 10px;
+    }
+    .accordion_head h4 {
+    font-size: 13px;
+    line-height: 20px;
+    width: 180px;
+}
+.accordion_head_2 {
+    padding: 5px 10px;
+}
+    #register {
+        padding: 50px 15px;
+    }
+    .register-wrapper {
+        padding:0px;
+    }
+    .register-image {
+        margin-bottom: 40px;
+    }
+    .image-wrap {
+        height: 400px;
+    }
+    .image-section{
+        height: 280px;
+        width: 100%;
+    }
+    .image-section img {
+        height: 280px;
+    }
+    footer {
+        padding: 50px 15px;
+    }
+    .footer-wrap {
+        padding: 0;
+        text-align: center;
+    }
+    .social-links ul {
+        justify-content: center;
+    }
+    .social-links {
+        margin-top: 20px;
+    }
+    .email-wrap h3 {
+        text-align: center;
+    }
+    .email-wrap {
+        margin-top: 20px;
+    }
+    .wrap01 {
+        width: 100%;
+    }
+    .wrap02 {
+        width: 100%;
+        text-align: center;
+    }
+    .quick-links-scnd{
+        display: block;
+        margin-top: 20px;
+    }
+    .quick-links-frst{
+        display: none;
+    }
+    .quick-links ul {
+        justify-content: center;
+    }
+    .wrap01 p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .wrap02 a {
+        font-size: 12px;
+    }
+    .copy-right {
+        margin-top: 20px;
+    }
+    .footer-line{
+        height: 1px!important;
+    }
+    .quick-links ul li a{
+        font-size: 14px;
+      }
+      .common-paragraph p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .register-btn {
+        font-size: 14px;
+        padding: 8px 24px;
+    }
+    .common-btn {
+        padding: 10px 34px;
+        font-size: 14px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+    .image-wrap{
+        margin: 0;
+    }
+     .matches{
+    display: block;
+}
+    .help_centre_head p {
+    font-size: 13px;
+    width: unset;
+}
+    .plan_title h6{
+        font-size: 12px;
+    }
+    .radio {
+    font-size: 12px;
+    margin-right: 18px;
+}
+    .plan_a_trip .nav-link{
+        width: 50%;
+    }
+    .help_centre_head h3{
+        font-size: 20px;
+    }
+    .dropdown{
+        padding: 0;
+    }
+    .post_time{
+        padding: 0;
+    }
+    .comment_posted_user_name{
+        width: 100%;
+    }
+    .post_owner{
+        font-size: 13px;
+    }
+    .travel_buddy_name_wrap {
+    margin-left: 20px;
+}
+    .travel_buddy_profile{
+        width: 40px;
+        height: 40px;
+    }
+    .travel_place{
+        justify-content: left;
+        font-size: 12px;
+    }
+    .travel_date{
+        justify-content: left;
+        font-size: 12px;
+    }
+    .user_chat {
+    border: 0!important;
+}
+    .user_name_style{
+        font-size: 12px;
+    }
+    .chat p{
+        display: none;
+    }
+    .modal-dialog {
+    margin: 20px;
+}
+    .image_wrap {
+    border: 5px solid #00000014;
+}
+    .pfl_head span {
+    font-size: 12px;
+    color: #ffffff;
+    width: 38px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+}
+    .profile_settings {
+    padding:0;
+    margin-top: 20px;
+}
+    .pfl_head p{
+        font-size: 12px;
+    }
+    .pfl_head {
+    margin-bottom: 5px;
+}
+    .user_data h5 {
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 10px;
+    color: #000000;
+}
+    .user_data span {
+    font-size: 12px;
+    width: 130px;
+    color: #7e7e7e;
+    font-weight: 500;
+    height: 28px;
+    background: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin: auto;
+}
+    .profile_image_wrap {
+    background: none;
+}
+    .select_profile_wrap{
+        background: transparent;
+    }
+    .about-content::before{
+        display: none;
+    }
+    .filter_submit_btn{
+        font-size: 12px;
+    }
+    .filter_wrap .nav-link {
+    font-size: 12px;
+}
+.filter_wrap .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    font-size: 12px;
+}
+.select_wrapper label{
+    font-size: 12px;
+}
+    .filter_wrap{
+        width: 60%;
+    }
+    .filter iconify-icon{
+        font-size: 16px;
+        margin: 0;
+    }
+    .filter {
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+    color: #fff;
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .filter p {
+   display: none;
+}
+.horoscope_matches_images {
+    height: 190px;
+}
+.recommented_images {
+    width: 90px;
+    height: 90px;
+}
+.recommented_section h6 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.horoscope_matches_slide ul li {
+    width: 31%;
+}
+.horoscope_matches p {
+    font-size: 12px;
+    margin-top: 10px;
+}
+    /*contact_page*/
+    .common_paragraph p{
+        font-size: 13px;
+        text-align: justify;
+        line-height: 24px;
+    }
+        #contact_section {
+             padding: 80px 10px;
+    }
+   
+    .contact_form_wrap {
+        padding: 50px 20px;
+}
+.contact_text {
+    padding-left: 0;
+    height: unset;
+    margin-top: 50px;
+}
+.contact_text_head {
+    font-size: 22px;
+}
+.contact_form_head {
+    font-size: 24px;
+    width: unset;
+    margin-bottom: 20px;
+}
+    .responsive_message_wrap{
+        display: inline-block;
+    }
+    .message_main_wrap input::placeholder{
+    font-size: 12px;
+}
+    .message_main_wrap input{
+        width: 80%;
+        font-size: 12px;
+    }
+    .type_message_wrap {
+    padding: 20px 0;
+}
+    .settings_wrap {
+        width: 30%;
+    }
+    .user_profile_wrap{
+        min-width: 40px;
+        height: 40px;
+    }
+    .dropdown-content{
+        right: 0!important;
+        left: unset;
+    }
+   
+    .message-orange {
+    margin-left: calc(100% - 160px);
+    width: 180px;
+}
+.message-blue {
+    width: 180px;
+    margin-left: -20px;
+}
+    .message-fix {
+    height: 400px;
+    overflow-y: auto;
+}
+    .say_hellow{
+        font-size: 12PX;
+    }
+    .start_message_wrap p {
+    font-size: 12px;
+}
+.start_message_wrap {
+    width: 100%;
+    border: 0;
+    background: #fafafa;
+}
+.user_name_wrap {
+    width: 75%;
+}
+    .message-content {
+    font-size: 12px;
+}
+    .recent_chat_user{
+        padding: 20px 0px;
+    }
+    .recent_chats{
+        width: 100%;
+    }
+    .user_name_wrap span {
+    font-size: 14px;
+}
+    .chats ul .active {
+    background: transparent;
+}
+    .chats ul li {
+    padding: 15px 0px;
+}
+    .chats {
+    width: 100%;
+    border-right: 0;
+    height: unset;
+}
+    .message_bg {
+    display: none;
+}
+    .responsive_menu{
+    display: flex;
+}
+    .profile_photo {
+    width: 60px;
+    height: 60px;
+}
+    .verifivation_mark {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+}
+    .verify{
+        font-size: 12px;
+    }
+    .verify_head h3 {
+    font-size: 16px;
+}
+    .verify_head p {
+    font-size: 12px;
+}
+    .socila_media span {
+    font-size: 12px;
+    color: #ffffff;
+}
+    .socila_media h6 {
+    font-size: 13px;
+    color: #ffffff;
+}
+    .social_icon_wrap{
+        filter: grayscale(0);
+    }
+    .profile_verification_wrapper {
+    background: none;
+    margin-top: 20px;
+    padding: 0;
+}
+    .social_media_connect {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 85px;
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+}
+    .select_here_to{
+        font-size: 12px;
+    }
+    .searchButton{
+        font-size: 13px;
+    }
+    .cancel_btn{
+        font-size: 12px;
+    }
+    .save_btn{
+        font-size: 12px;
+    }
+    .wrk_edu_input::placeholder{
+    font-size: 12px;
+}
+.select2-container--default .select2-search--inline .select2-search__field {
+    font-size: 12px!important;
+}
+    .wrk_education_wrap label {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+    .about_me_wrap{
+        width: 100%;
+        margin: 0;
+    }
+    .personal_info ul li span {
+    font-size: 12px;
+    min-width: 45%;
+    text-align: left;
+}
+    .personal_info ul li label{
+        text-align: left;
+        font-size: 12px;
+    }
+    .text_wrap_2{
+        margin: 0;
+    }
+    .hide_section {
+    display: none;
+}
+    .float_wrap_3 {
+    display: none;
+}
+    .phn_verification_box {
+    padding: 0px 0px 20px;
+}
+.responsive_profile_verification {
+    background: linear-gradient(90deg, #F77062 0%, #FE5196 100%);
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    width: 50%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    margin: 10px auto;
+}
+.responsive_profile_verification:hover{
+    color: #fff;
+}
+.responsive_profile_verification iconify-icon{
+    font-size: 26px;
+    margin-right: 10px;
+}
+.profile_completion {
+    border-bottom: 0;
+    padding: 10px 100px;
+}
+.partner_preference_head {
+    margin: 20px 0px;
+}
+    .show .img-show{
+        width: 100%;
+    }
+    .settings_wrap_2 {
+    display:flex!important;
+}
+    .common_box{
+        padding: 20px 25px;
+    }
+    .text_wrap p{
+        font-size: 12px;
+    }
+    .text_wrap h5{
+        font-size: 13px;
+    }
+    .topic-wrap {
+    padding: 0px 20px;
+}
+    .fixed_menu_bar{
+        display: block;
+    }
+    .personal_info ul li {
+    width: unset;
+    padding: 0;
+    margin: 10px 0;
+}
+    #dashboard_wrapper {
+        padding: 20px 5px 80px;
+}
+    .label-text-2 {
+    font-size: 12px;
+}
+    .head_wrap {
+    padding: 10px 20px;
+    height: 60px;
+}
+    .settings_wrap ul li {
+    margin-left: 5px;
+}
+    span.select2.select2-container.select2-container--default {
+    width: 100%!important;
+}
+.common_head_wrap_3 {
+    width: unset;
+}
+    .interests {
+    width: 100%;
+    float: unset;
+    margin-bottom: 22px;
+    padding: 0;
+}
+    .wrk_education_btn_wrap{
+        margin: 20px 0px;
+    }
+.wrk_edu_input {
+    width: 100%;
+    padding: 5px 16px;
+    font-size: 12px;
+}
+    .wrk_education_wrap {
+    display: block;
+    margin-bottom: 0px;
+}
+    .pdofile_uploader {
+    height: 150px;
+    width: 30%;
+}
+    .profile_image{
+        height: 150px;
+    }
+    .profile-slider .owl-carousel{
+        width: 70%;
+        height: 150px;
+    }
+    #login_page_wrapper {
+    height: unset;
+    align-items: unset;
+}
+    .intertest_list ul li{
+        font-size: 12px;
+    }
+    .interest_wrapper{
+       width: 100%;
+    }
+    .header_wrap h2{
+        font-size: 22px;
+    }
+    .footer_left_wrap  p{
+        font-size: 12px;
+    }
+    .footer_left_wrap  p a{
+        font-size: 12px;
+    }
+    .register-page-footer {
+    height: auto;
+    padding: 8px 0px;
+}
+    .button_outer{
+        width: 100%;
+    }
+.upload_profile{
+    width: 100%;
+}
+    .icon_wrap {
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+    .edit_icon{
+        font-size: 22px;
+    }
+    .common_box_2:after{
+        display: none;
+    }
+    .work_education_single {
+    float: unset;
+    width: 100%;
+    margin-bottom: 20px;
+}
+    .profile-slider{
+        margin-top: 20px;
+    }
+.settings_wrap ul li a {
+    font-size: 16px;
+    width: 28px;
+    height: 28px;
+}
+    .logo_wrap {
+    width: 50%;
+}
+    .name_wrap {
+    display: none;
+}
+    .logo_wrap img {
+    width: 100px;
+}
+    .login_input::placeholder{
+     font-size: 14px;
+}
+.login_input{
+    font-size: 14px;
+}
+    .login_btn{
+        font-size: 12px;
+    }
+    .forgot_password{
+        font-size: 12px;
+    }
+    .stay_logged_in p{
+        font-size: 12px;
+    }
+    .p-3 {
+    padding: 10px 0px!important;
+}
+    .rht_wrapper .nav-tabs .nav-link {
+    font-size: 14px;
+}
+    .lft_wrapper p {
+    font-size: 14px;
+    line-height: 22px;
+    width: unset;
+}
+    .lft_wrapper h2 {
+    font-size: 22px;
+}
+    .login_wrapper {
+    margin-top: 50px;
+}
+    #login_page_wrapper {
+    padding: 50px 5px;
+}
+    .top_logo_wrap img {
+    width: 120px;
+}
+    .lft_wrapper {
+    justify-content: center;
+    text-align: center;
+}
+    .login_form_wrap{
+        width: 100%;
+        padding: 30px 15px;
+    }
+    .login_wrap {
+    padding: 0;
+}
+    .form-wrap{
+        width: 100%;
+    }
+.check-box {
+    width: 100%;
+    justify-content: center;
+    /* margin-right: 4%; */
+}
+    .check-box-2 {
+    margin-left: 0;
+}
+   #nav_bar {
+    padding: 30px 15px;
+}
+    button.back-to-top.show {
+    right: 10px;
+    height: 40px;
+    width: 40px;
+}
+button.back-to-top::before, button.back-to-top::after {
+    margin: 16px auto 0;
+}
+    .header-image{
+        height: auto;
+    }
+    .question-head h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .question-head iconify-icon {
+        font-size: 20px;
+    }
+    .icon-wrap01 img {
+        width: 50px;
+    }
+    .list-wrap {
+    margin-top: 20px;
+}
+    .point-wrap h4 {
+    font-size: 14px;
+    line-height: 18px;
+    width:100%;
+    margin: 0;
+}
+.point-wrap p {
+    font-size: 12px;
+}
+    .login {
+    padding: 5px 18px;
+    font-size: 12px;
+    margin-left: 25px;
+}
+    .logo img {
+        width: 100px;
+    }
+    .header-content {
+        padding: 100px 15px 50px;
+        display: block;
+    }
+    .form-wrap{
+        width: 100%;
+        padding: 40px 20px;
+    }
+    .form-wrap h3 {
+        font-weight: 500;
+        font-size: 20px;
+    }
+    .header-caption-wrap {
+        margin-bottom: 50px;
+    }
+    .main-head {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .sub-heading {
+        font-size: 24px;
+        line-height: 32px;
+        width: 100%;
+    }
+    .list-wrap ul li {
+        width: 100%;
+        padding: 25px 0px;
+    }
+    .topic-wrap h4{
+        font-size: 15px;
+    }
+    .image-wrap {
+        margin-bottom: 30px;
+    }
+    #we-provide {
+        padding: 50px 15px;
+    }
+    #about-section {
+        padding: 80px 15px;
+    }
+    #whats-inside {
+        padding: 80px 15px;
+    }
+    .about-head h3{
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .about-content {
+        padding-top: 21px;
+        padding-left: 0px;
+    }
+    .about-head h3::after{
+        display: none;
+    }
+    .common-paragraph p{
+        text-align: justify;
+    }
+    #enquiry-section {
+        padding: 0px 15px;
+    }
+    .enquiry-wrapper {
+        padding: 50px 20px;
+    }
+    .questions-wrapper {
+        padding: 0px;
+    }
+    .accordion_body p {
+    font-size: 13px;
+    text-align: justify;
+    line-height: 24px;
+}
+    .border-box{
+        padding: 50px 10px;
+    }
+    .accordion_head h4 {
+    font-size: 13px;
+    line-height: 20px;
+    width: 180px;
+}
+.accordion_head_2 {
+    padding: 5px 10px;
+}
+    #register {
+        padding: 50px 15px;
+    }
+    .register-wrapper {
+        padding:0px;
+    }
+    .register-image {
+        margin-bottom: 40px;
+    }
+    .image-wrap {
+        height: 400px;
+    }
+    .image-section{
+        height: 280px;
+        width: 100%;
+    }
+    .image-section img {
+        height: 280px;
+    }
+    footer {
+        padding: 50px 15px;
+    }
+    .footer-wrap {
+        padding: 0;
+        text-align: center;
+    }
+    .social-links ul {
+        justify-content: center;
+    }
+    .social-links {
+        margin-top: 20px;
+    }
+    .email-wrap h3 {
+        text-align: center;
+    }
+    .email-wrap {
+        margin-top: 20px;
+    }
+    .wrap01 {
+        width: 100%;
+    }
+    .wrap02 {
+        width: 100%;
+        text-align: center;
+    }
+    .quick-links-scnd{
+        display: block;
+        margin-top: 20px;
+    }
+    .quick-links-frst{
+        display: none;
+    }
+    .quick-links ul {
+        justify-content: center;
+    }
+    .wrap01 p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .wrap02 a {
+        font-size: 12px;
+    }
+    .copy-right {
+        margin-top: 20px;
+    }
+    .footer-line{
+        height: 1px!important;
+    }
+    .quick-links ul li a{
+        font-size: 14px;
+      }
+      .common-paragraph p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .register-btn {
+        font-size: 14px;
+        padding: 8px 24px;
+    }
+    .common-btn {
+        padding: 10px 34px;
+        font-size: 14px;
+    }
+    }
+
+
+    @media (min-width: 992px) and (max-width: 1199px){
+        .image-wrap{
+        margin: 0;
+    }
+        .horoscope_matches_images{
+            height: 150px;
+        }
+        .common_head_wrap_3 {
+    width: 256px;
+}
+        .login_wrap {
+    padding: 0px 0px;
+}
+      .footer-wrap {
+    padding: 0px;
+}
+.register-wrapper {
+    padding: 0px;
+}
+.questions-wrapper {
+    padding: 0px;
+}
+#enquiry-section {
+    padding: 0px;
+}
+#about-section {
+    padding: 80px 0;
+}
+.header-content {
+    padding: 100px 0px 50px;
+    display: block;
+}
+.rht_wrapper {
+    justify-content: center;
+}
+.lft_wrapper {
+    text-align: center;
+    justify-content: center;
+}
+.message_bg {
+    padding: 20px 10px;
+}
+.user_name_wrap span{
+    font-size: 12px;
+    }
+    .chats {
+        width: 40%;
+    }
+    .recent_chats{
+        width: 60%;
+    }
+    .settings_wrap {
+    width: 40%;
+}
+.profile_settings {
+    padding: 20px 10px;
+}
+.link_wrap ul li a{
+    font-size: 12px;
+}
+.link_wrap ul li iconify-icon{
+    font-size: 16px;
+}
+.pfl_head span {
+    font-weight: 600;
+    font-size: 14px;
+}
+.pfl_head p {
+    font-size: 12px;
+}
+.image-section {
+    height: 320px;
+    width: unset;
+}
+}
+@media (min-width: 576px){
+   .modal-dialog {
+    max-width: 560px;
+    
+} 
+}
