@@ -13,8 +13,8 @@ function SelectField(props) {
   return (
     <React.Fragment>
       <Form.Group>
-        <Form.Label className='label-text'>I am</Form.Label>
-        <Form.Select className='fill-input'>
+        <Form.Label className='label-text label-text-2'>I am</Form.Label>
+        <Form.Select className='fill-input inpt_field'>
           <option>Select</option>
           <option>Male</option>
           <option>Female</option>
@@ -31,7 +31,7 @@ function RadioField(props) {
     <React.Fragment>
       {["radio"].map((type) => (
         <div key={`inline-${type}`} className=''>
-          <div className='check-box'>
+          <div className='check-box inpt_field'>
             <div>
               <div className='icon_img'>
                 <img src={friend} alt='' />
@@ -45,7 +45,7 @@ function RadioField(props) {
               />
             </div>
           </div>
-          <div className='check-box check-box-2'>
+          <div className='check-box check-box-2 inpt_field'>
             <div>
               <div className='icon_img'>
                 <img src={lover} alt='' />
@@ -59,7 +59,7 @@ function RadioField(props) {
               />
             </div>
           </div>
-          <div className='check-box check-box-2'>
+          <div className='check-box check-box-2 inpt_field'>
             <div>
               <div className='icon_img'>
                 <img src={travel} alt='' />
@@ -82,7 +82,7 @@ function RadioField(props) {
 function FormEmail(){
   return(
     <React.Fragment>
-    <div class="fill-input">
+    <div class="fill-input inpt_field">
       <iconify-icon icon="clarity:email-solid"></iconify-icon>
       <InputGroup>
         <Form.Control
@@ -98,15 +98,15 @@ function FormEmail(){
   );
 }
   
-function FormPassword(){
+function FormPassword(password){
   return(
     <React.Fragment>
-      <div class="fill-input">
+      <div class="fill-input inpt_field">
           <iconify-icon icon="ri:lock-password-fill"></iconify-icon>
           <InputGroup>
         <Form.Control
           type="password"
-          placeholder="Create Your Password"
+          placeholder={password.placeholder}
           aria-label="Username"
           aria-describedby="basic-addon1"
         />
@@ -117,4 +117,24 @@ function FormPassword(){
 }
 
 
-export { SelectField, RadioField, FormEmail, FormPassword } ;
+function FormCheck(check){
+  return(
+    <React.Fragment>
+      {["checkbox"].map((type) => (
+        <div key={`inline-${type}`} className=''>
+            <div>
+              <Form.Check
+                inline
+                label={check.label}
+                name='group2'
+                type={type}
+                id={`inline-${type}-1`}
+              />
+            </div>
+        </div>
+      ))}
+    </React.Fragment>
+  );
+}
+
+export { SelectField, RadioField, FormEmail, FormPassword, FormCheck };

@@ -58,7 +58,7 @@ function Home(){
                       <FormEmail/>
                     </Col>
                     <Col lg="12">
-                      <FormPassword/>
+                      <FormPassword placeholder="Create Your Password" />
                       <span className="form-text">By clicking below to register, you confirm that you agree to our Terms & Conditions and you have read and understood our Privacy Policy.</span>
                       <Button as="input" type="submit" value="join now" className='join-bth' />
                     </Col>
