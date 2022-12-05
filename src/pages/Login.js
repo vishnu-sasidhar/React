@@ -42,7 +42,7 @@ function LoginPage(){
                  
                       <div class="col-lg-12">
                       <label className="label-text label-text-2">I'm looking for</label>
-                      <RadioField/>
+                     
                     </div>
                     <div class="col-lg-12">
                       <FormEmail/>
